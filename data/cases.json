@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "title": "First case",
+    "status": "open"
+  },
+  {
+    "id": 2,
+    "title": "Second case",
+    "status": "open"
+  }
+]

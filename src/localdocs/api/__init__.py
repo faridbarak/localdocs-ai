@@ -1,3 +1,3 @@
-"""API module for LocalDocs AI"""
-from .routes import router
+from .cases import router
+
 __all__ = ["router"]
