@@ -1,5 +1,24 @@
 __pycache__/
-*.pyc
-.venv/
+*.py[cod]
+*$py.class
+*.so
+.Python
 venv/
+ENV/
+env/
+.venv
 .env
+.env.local
+data/
+*.db
+*.sqlite
+.cache/
+*.log
+logs/
+.DS_Store
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Local Netlify folder
+.netlify
